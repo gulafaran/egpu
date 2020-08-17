@@ -92,7 +92,7 @@ void gpu_list(pci_ctl p_ctl) {
 
 void usage() {
   fprintf(stderr, "\n"
-      "Usage: egpuctl [options]\n\n");
+      "Usage: gpuctl [options]\n\n");
   fprintf(stderr,
       " Options:\n"
       "  -h, --help                     display this help and exit\n"
